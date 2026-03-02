@@ -1,0 +1,2 @@
+This line is appended to the 'sample.txt' from task-2 file.
+This is the 2nd line appended as more text from task-2 file.

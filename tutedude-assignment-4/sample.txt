@@ -1,0 +1,3 @@
+This is a sample text file.
+It is used for file reading in Python.
+This file contains multiple lines.
